@@ -1,0 +1,3 @@
+| Date日期 | Version版本 | Comment说明                                                  |
+| -------- | ----------- | ------------------------------------------------------------ |
+| 20200816 | V1.0.0      | 1.The Chinese info almost get from the Steam game body or Chinese official wiki https://xinglugu.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5<br />1.本文档中文信息基本来自于游戏本地与中文官网https://xinglugu.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5      <br />2.If you need English version info, you can refer to English official wiki https://stardewvalleywiki.com/Stardew_Valley_Wiki.<br />2.如需英文版信息，可以去英文官网 https://stardewvalleywiki.com/Stardew_Valley_Wiki   <br /> |
