@@ -10,7 +10,7 @@ Below are the game directories:
 以下为游戏目录：
 
 [Stardew Valley
-星露谷物语](https://github.com/VincentWh/Game-Tutorial/tree/main/Stardew%20Valley)
+星露谷物语](https://github.com/Sky-WH/Game-Tutorial/tree/main/Stardew%20Valley)
 
 [Sunless Sea
-无光之海](https://github.com/VincentWh/Game-Tutorial/tree/main/Sunless%20Sea)
+无光之海](https://github.com/Sky-WH/Game-Tutorial/tree/main/Sunless%20Sea)
